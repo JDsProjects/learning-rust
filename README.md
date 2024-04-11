@@ -1,0 +1,2 @@
+Just learning rust lol
+
